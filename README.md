@@ -15,5 +15,5 @@ The MIDI control of the hammers is controlled by an Arduino Pro Mini. the serial
 The Glockenspiel is a Pearl 32 note that I purchased off of Ebay for $45
 </br></br>
 There are two Arduino programs.</br>
-The Spielatron_V2.ino file is the origional application off of Instructables</br>
+The Spielatron_V2.ino file is the original application off of Instructables</br>
 The Spielatron_mod.ino file has modifications of the rotation table for the hammers. This was necessary because my Glockenspiel is a different physical size. 
