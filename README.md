@@ -1,8 +1,5 @@
-# AutoGlockenspiel
 # Arduino Robotic Glockenspiel
-![Client Photo](https://github.com/bonnette/AutoGlockenspiel/blob/master/photos/dk_clock.jpg)
-<br/>
-### There are more photos and information in the WIKI section of this repository
+![Client Photo](https://github.com/bonnette/AutoGlockenspiel/blob/master/photos/ful_pic3.jpg)
 <br/>
 An automated Glockenspiel Arduino Project
 Inspired by an Instructable
