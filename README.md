@@ -12,6 +12,8 @@ The software to arrange and compose music is at:</br>
 https://musescore.org/en </br>
 LMMS software can be found here:</br>
 https://lmms.io/download#linux</br>
+TTYMIDI can be found here:</br>
+https://github.com/cjbarnes18/ttymidi</br></br>
 This is my interpertation with modifications
 </br></br>
 This project uses a Raspberry Pi 3 B+ with Raspberian Stretch as its operating system. The Pi is used to run applications spelled out by this instructable (https://www.instructables.com/id/How-to-Send-MIDI-Music-to-the-Spielatron/). The applications are installed onto the Pi and I use Windows RDP to connect to and operate these applications.
